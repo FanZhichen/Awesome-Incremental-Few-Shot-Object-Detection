@@ -10,7 +10,7 @@
 - Generalized Few-Shot 3D Object Detection of LiDAR Point Cloud for Autonomous Driving [[paper]](https://arxiv.org/abs/2302.03914)
 
 
-## 2022
+## 2023
 - Incremental Few-Shot Object Detection via Simple Fine-Tuning Approach (**ICRA** 2023) [[paper]](https://arxiv.org/abs/2302.09779) [[code]](https://github.com/TMIU/iTFA)
 - Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning (**AAAI** 2023) [[paper]](https://arxiv.org/abs/2205.04042) [[code]](https://github.com/dongnana777/Incremental-DETR)
 
