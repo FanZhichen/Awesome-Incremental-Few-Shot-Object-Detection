@@ -48,8 +48,7 @@
 
 
 
-## 非标准持续小样本目标检测方法
-#####（以下方法为论文中为了比较，将以往方法通过finetune等方法进行简答修改，使其适应持续小样本目标检测任务设置）
+### 非标准持续小样本目标检测方法
 - Frustratingly simple few-shot object detection (2020) [[paper]](https://arxiv.org/abs/2003.06957) [[code]](https://github.com/ucbdrive/few-shot-object-detection)
 - Few-shot object detection via feature reweighting (**ICCV** 2019) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html) [[code]](https://github.com/bingykang/Fewshot_Detection)
 - Meta r-cnn: Towards general solver for instance-level low-shot learning (**ICCV** 2019) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Yan_Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper.html) [[code]](https://yanxp.github.io/metarcnn.html)
