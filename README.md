@@ -47,6 +47,16 @@
 
 
 
+
+## Non-standard Incremental Few-Shot Object Detection
+- Frustratingly simple few-shot object detection (2020) [[paper]](https://arxiv.org/abs/2003.06957) [[code]](https://github.com/ucbdrive/few-shot-object-detection)
+- Few-shot object detection via feature reweighting (**ICCV** 2019) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html) [[code]](https://github.com/bingykang/Fewshot_Detection)
+- Meta r-cnn: Towards general solver for instance-level low-shot learning (**ICCV** 2019) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Yan_Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper.html) [[code]](https://yanxp.github.io/metarcnn.html)
+- Lvis: A dataset for large vocabulary instance segmentation
+ (**CVPR** 2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Gupta_LVIS_A_Dataset_for_Large_Vocabulary_Instance_Segmentation_CVPR_2019_paper.html) [[code]](https://www.lvisdataset.org/)
+- Faster r-cnn: Towards real-time object detection with region proposal networks (**NIPS** 2015) [[paper]](https://proceedings.neurips.cc/paper/2015/hash/14bfa6bb14875e45bba028a21ed38046-Abstract.html) [[code]](https://github.com/ShaoqingRen/faster_rcnn)
+
+
 <!-- <hr/> -->
 
 ### Contributing
